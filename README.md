@@ -1,4 +1,4 @@
-# Unity-Visual-Debugger
+# Unity Visual Debugger
 
 <img src="screenshot.png?raw=true" alt="EzySlice Logo" width="600">
 
